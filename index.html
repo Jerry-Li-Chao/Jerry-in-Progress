@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Jerry in Progress — field notes on work, interviews, and everything I’m still learning." />
+    <link rel="canonical" href="https://jerry-in-progress.pages.dev/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Jerry in Progress" />
+    <meta property="og:title" content="Jerry in Progress" />
+    <meta property="og:description" content="Field notes on work, interviews, and everything I’m still learning." />
+    <meta property="og:url" content="https://jerry-in-progress.pages.dev/" />
+    <meta property="og:image" content="https://jerry-in-progress.pages.dev/assets/social-preview.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Jerry in Progress — field notes on work, interviews, and learning." />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Jerry in Progress" />
+    <meta name="twitter:description" content="Field notes on work, interviews, and everything I’m still learning." />
+    <meta name="twitter:image" content="https://jerry-in-progress.pages.dev/assets/social-preview.png" />
+    <title>Jerry in Progress</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="assets/apple-touch-icon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&amp;family=Manrope:wght@400;500;600&amp;family=Newsreader:opsz,wght@6..72,300;6..72,400&amp;display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="home.css" />
+  </head>
+  <body>
+    <div class="grain" aria-hidden="true"></div>
+
+    <header class="site-header">
+      <a class="site-name" href="index.html" aria-label="Jerry in Progress, home">
+        <span class="site-mark" aria-hidden="true"><i></i></span>
+        <span>JERRY IN PROGRESS</span>
+      </a>
+      <span class="issue-count">001 NOTE, SO FAR</span>
+    </header>
+
+    <main>
+      <section class="home-hero" aria-labelledby="home-title">
+        <div class="hero-center">
+          <p class="kicker hero-enter">PERSONAL NOTES / PUBLICLY IN PROGRESS</p>
+          <h1 id="home-title" class="hero-enter">Jerry in <em>Progress.</em></h1>
+          <p class="subtitle hero-enter">Field notes on work, interviews, and everything I’m still learning.</p>
+
+          <div class="progress-object hero-enter" role="img" aria-label="An unfinished progress bar representing continuous learning">
+            <div class="progress-status">
+              <span>CURRENTLY / <b id="progress-word">LEARNING</b></span>
+              <span>NO FINAL VERSION</span>
+            </div>
+            <div class="progress-track" aria-hidden="true">
+              <span class="progress-fill"><i></i></span>
+            </div>
+            <div class="progress-scale" aria-hidden="true">
+              <span>00</span><span>25</span><span>50</span><span>75</span><span>CONTINUING →</span>
+            </div>
+          </div>
+
+          <a class="down-link hero-enter" href="#latest" data-analytics-event="view_latest_note">SEE THE LATEST NOTE <span>↓</span></a>
+        </div>
+        <p class="hero-corner" aria-hidden="true">THE WORK IS NEVER QUITE DONE.<br />THAT IS THE POINT.</p>
+      </section>
+
+      <section class="latest" id="latest" aria-labelledby="latest-title">
+        <div class="section-heading will-reveal">
+          <p class="section-label">LATEST / 001</p>
+          <h2 id="latest-title">One finished note.<br /><em>More in progress.</em></h2>
+        </div>
+
+        <a class="featured-post will-reveal" href="posts/google-application-2024.html" data-analytics-event="open_google_timeline">
+          <div class="post-index">
+            <span>001</span>
+            <span>CAREER / INTERVIEWS</span>
+          </div>
+          <div class="post-copy">
+            <p class="post-date">AUG 02 — DEC 02 · 2024</p>
+            <h3>My 2024 Google application.<br /><em>Milestone by milestone.</em></h3>
+            <p class="post-description">An interactive record of my new-grad SWE journey—from the last resume edit to my first day, with the time between each milestone included.</p>
+            <div class="post-facts">
+              <span><b>10</b> milestones</span>
+              <span><b>122</b> days</span>
+              <span>Interactive timeline</span>
+            </div>
+          </div>
+          <span class="post-arrow" aria-hidden="true">↗</span>
+        </a>
+      </section>
+
+      <section class="site-intent will-reveal" aria-labelledby="intent-title">
+        <p class="section-label">WHAT COMES NEXT</p>
+        <div>
+          <h2 id="intent-title">Useful things,<br />while I figure them out.</h2>
+          <p>Career lessons, interview preparation, and ideas worth keeping. Written from experience, revised when I learn better.</p>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <span>JERRY IN PROGRESS</span>
+      <span>LEARNING · WRITING · SHARING</span>
+    </footer>
+
+    <script src="analytics.js"></script>
+    <script src="home.js"></script>
+  </body>
+</html>

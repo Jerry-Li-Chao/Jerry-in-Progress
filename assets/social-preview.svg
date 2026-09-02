@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#20231f"/>
+  <path d="M72 76H1128M72 554H1128" stroke="#f2ecdf" stroke-opacity=".23"/>
+  <rect x="72" y="53" width="48" height="8" fill="none" stroke="#f2ecdf" stroke-opacity=".65"/>
+  <rect x="72" y="53" width="32" height="8" fill="#e85e45"/>
+  <text x="136" y="62" fill="#f2ecdf" font-family="Menlo, Monaco, monospace" font-size="15" letter-spacing="2.4">JERRY IN PROGRESS</text>
+  <text x="1128" y="62" fill="#f2ecdf" fill-opacity=".55" text-anchor="end" font-family="Menlo, Monaco, monospace" font-size="13" letter-spacing="2">POST 001</text>
+  <text x="72" y="235" fill="#f2ecdf" font-family="Georgia, serif" font-size="88" letter-spacing="-4">My 2024 Google application.</text>
+  <text x="72" y="332" fill="#e85e45" font-family="Georgia, serif" font-size="88" font-style="italic" letter-spacing="-4">Milestone by milestone.</text>
+  <text x="72" y="431" fill="#f2ecdf" fill-opacity=".68" font-family="Helvetica, Arial, sans-serif" font-size="23">An interactive record of one new-grad SWE journey.</text>
+  <text x="72" y="516" fill="#f2ecdf" fill-opacity=".62" font-family="Menlo, Monaco, monospace" font-size="14" letter-spacing="2.2">AUG 02 — DEC 02 · 2024</text>
+  <rect x="793" y="503" width="335" height="13" fill="none" stroke="#f2ecdf" stroke-opacity=".5"/>
+  <rect x="796" y="506" width="224" height="7" fill="#e85e45"/>
+  <rect x="1017" y="500" width="5" height="19" rx="2.5" fill="#f2ecdf"/>
+</svg>

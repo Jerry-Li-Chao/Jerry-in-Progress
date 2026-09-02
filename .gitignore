@@ -1,0 +1,7 @@
+.DS_Store
+.codex/
+.agents/
+.playwright-cli/
+AGENTS.md
+output/
+sources/
