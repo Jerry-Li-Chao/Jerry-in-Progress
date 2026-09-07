@@ -56,7 +56,7 @@ const milestones = [
   },
   {
     id: "match", date: "2024-11-04", title: "Team match",
-    lede: "I spoke with one team, we both said yes, and I stopped matching. I would not recommend making your decision before talking to more than one team. I had heard horror stories about people rejecting a match and then not matching at all. As an international student whose time in the U.S. always felt like it was on the clock, I also had an intense urge to start working as soon as possible.",
+    lede: "I spoke with one team, we both said yes, and I stopped matching. I would not recommend making your decision before talking to more than one team. I rushed my decision partly because I had heard horror stories about people rejecting a match and then not matching at all. As an international student whose time in the U.S. always felt like it was on the clock, I also had an intense urge to start working as soon as possible. But if I could do it again, I would take more time to explore my options before committing to a team.",
     notes: [
       ["Questions worth asking", "What would I own in 90 days? How does the manager give feedback? What happened to the last new grad? How is on-call handled? Team match is tough because it is almost impossible to truly know a team before joining it, and even reassuring answers can turn into false promises."],
       ["Do not optimize for two weeks", "A mismatch at the beginning can become amplified over time. Entering Google one or two weeks earlier is probably not worth the future cost to your mental health. Meet more than one team when you can, even when immigration pressure makes speed feel like safety. Okay—let me move on before I scare you guys."]
