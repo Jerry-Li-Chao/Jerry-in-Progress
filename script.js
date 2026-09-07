@@ -27,7 +27,7 @@ const milestones = [
     lede: "My 2024 online assessment included several coding problems under time pressure. I had enough time to reason carefully, test my solutions, and revisit edge cases instead of racing to submit. The format may be different for other roles or application cycles.",
     notes: [
       ["Use the first minutes", "Read all questions, estimate difficulty, and choose an order. Clarify input constraints, then name the data structure and complexity you are targeting before you code."],
-      ["Test like an engineer", "Test small, empty, duplicate, boundary, and worst-case inputs. Verify every expected result independently; a mistaken assumption in your own testing can make an incorrect solution appear correct. Re-read the prompt before submitting. Assessment formats vary, so treat the instructions provided with your assessment as the source of truth."]
+      ["Test like an engineer", "Test small, empty, duplicate, boundary, and worst-case inputs. In my assessment, I wrote both my own test cases and their expected answers. If you get an expected answer wrong and then adjust your solution to match it, you can end up convincing yourself that incorrect code is correct. Work out each expected answer independently before using it to judge your solution. Unlike a platform such as LeetCode, where the judge checks your output against answers you don't have to supply, this part felt more like working at a whiteboard: you are responsible for checking your own reasoning. Re-read the prompt before submitting. Assessment formats vary, so treat the instructions provided with your assessment as the source of truth."]
     ],
   },
   {
