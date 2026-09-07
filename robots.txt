@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jerry-in-progress.pages.dev/sitemap.xml
+Sitemap: https://jerryinprogress.com/sitemap.xml
